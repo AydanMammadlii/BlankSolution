@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9D3D-7FDC-4305-8BDA-8EA6A1161361}|src\\BlankSolution.API\\BlankSolution.API.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9D3D-7FDC-4305-8BDA-8EA6A1161361}|src\\BlankSolution.API\\BlankSolution.API.csproj|solutionrelative:src\\blanksolution.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9D3D-7FDC-4305-8BDA-8EA6A1161361}|src\\BlankSolution.API\\BlankSolution.API.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9D3D-7FDC-4305-8BDA-8EA6A1161361}|src\\BlankSolution.API\\BlankSolution.API.csproj|solutionrelative:src\\blanksolution.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.business\\dto\u0027s\\genredto\u0027s\\genrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\dto\u0027s\\genredto\u0027s\\genrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4280099-8253-4A96-9898-0CCB12135E4A}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4280099-8253-4A96-9898-0CCB12135E4A}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|solutionrelative:src\\blanksolution.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4280099-8253-4A96-9898-0CCB12135E4A}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4280099-8253-4A96-9898-0CCB12135E4A}|src\\BlankSolution.Core\\BlankSolution.Core.csproj|solutionrelative:src\\blanksolution.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.business\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|c:\\users\\asus zenbook\\source\\repos\\blanksolution\\src\\blanksolution.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B699AFB-8EF1-4A1C-ACBB-A92770ADE488}|src\\BlankSolution.Business\\BlankSolution.Business.csproj|solutionrelative:src\\blanksolution.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenreCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\DTO\u0027s\\GenreDTO\u0027s\\GenreCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\DTO\u0027s\\GenreDTO\u0027s\\GenreCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\DTO\u0027s\\GenreDTO\u0027s\\GenreCreateDto.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\DTO\u0027s\\GenreDTO\u0027s\\GenreCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:25:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\BlankSolution.Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:25:17.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Core\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Core\\Entities\\Genre.cs",
+              "RelativeToolTip": "src\\BlankSolution.Core\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:25:16.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "src\\BlankSolution.API\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:25:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "src\\BlankSolution.API\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:25:10.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:10:06.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\Services\\Implementations\\GenreService.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\Services\\Implementations\\GenreService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:48:57.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Asus ZenBook\\source\\repos\\BlankSolution\\src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "src\\BlankSolution.Business\\Services\\Implementations\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:50:41.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
